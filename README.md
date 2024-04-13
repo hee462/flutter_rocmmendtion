@@ -1,17 +1,33 @@
-# flutter_recommendation
- 점심메뉴 추천 간단 어플 생성 후 출시해보기
+# Flutter Lunch Recommendation App
 
-## Getting Started
+간단한 점심 메뉴 추천 앱입니다. 사용자는 각 분야별 랜덤 메뉴를 선택하거나 전체 분야에서 랜덤 메뉴를 추천받을 수 있습니다.
 
-1. 랜덤 사용하여 각 분야 랜덤 및 전체 랜덤
-2. splash screen 구현해보기
-This project is a starting point for a Flutter application.
+## 기능
 
-A few resources to get you started if this is your first Flutter project:
+### 1. 랜덤 메뉴 선택
+- 각 분야별 (한식, 중식, 일식, 양식) 랜덤 메뉴 선택
+- 전체 분야에서 랜덤 메뉴 선택
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 2. Splash Screen
+- 앱 시작 시 Lottie 애니메이션을 통한 Splash 화면 표시
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 사용 기술
+
+- Flutter
+- Dart
+- Lottie
+
+## 설치 및 실행
+
+1. Flutter SDK가 설치되어 있어야 합니다.
+2. 저장소를 클론하거나 압축 파일을 다운로드 받습니다.
+3. 터미널 또는 명령 프롬프트를 열고 프로젝트 디렉토리로 이동합니다.
+4. `flutter run` 명령어를 실행하여 앱을 실행합니다.
+
+## 환경 설정
+
+### Android
+1. Android Studio 설치
+2. Flutter 플러그인 설치
+
+
