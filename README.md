@@ -29,5 +29,8 @@
 ### Android
 1. Android Studio 설치
 2. Flutter 플러그인 설치
-
+3. package name 변경 라이브러리 사용
+`flutter pub add change_app_package_name`
+`flutter pub run change_app_package_name:main
+com.new.package.name` // 원하는 package 이름 변경
 
